@@ -1,0 +1,1 @@
+Este proyecto de C# en Windows Forms integra tres funciones clave: visualización de archivos PDF, reproducción de video a través de Windows Media Player, y navegación web utilizando un control WebBrowser.
